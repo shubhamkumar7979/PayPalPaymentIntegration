@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3rd Party Integration.iml" filepath="$PROJECT_DIR$/.idea/3rd Party Integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PayPal-Payment-Integration/PayPal-Payment-Integration.iml" filepath="$PROJECT_DIR$/PayPal-Payment-Integration/PayPal-Payment-Integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twilio-sms/twilio-sms.iml" filepath="$PROJECT_DIR$/twilio-sms/twilio-sms.iml" />
+    </modules>
+  </component>
+</project>
